@@ -1,3 +1,3 @@
 # MCC3
 
-#MCC3 is the third program I am going to create in GitHub, the idea is in the very beginning stage and has a chance of getting canceled.
+#MCC3 is the third program I am going to create in GitHub, the idea is in the very beginning stage, it has a chance of getting canceled and the name announcement might take time...
