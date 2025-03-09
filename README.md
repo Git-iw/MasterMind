@@ -1,3 +1,3 @@
 # MasterMind
 
-MasterMind is the third program I am going to create in GitHub, the idea is in the very beginning stage, so there is going to be a significant delay in the upload of the first file...
+MasterMind is an AI that will give out the best fielding position for the current situation in the match.
